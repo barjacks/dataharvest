@@ -8,6 +8,6 @@ CAR training: Scraping websites and services using requests to save off the HTML
 
 ### Python Training VIII
 
-We'll use the Python libraries and modules pickle, os and pandas to read and analyse tens of thousands of files from the Swiss supreme court and turn them into structured data for our computers to work with.
+We'll use the Python libraries and modules pickle, os and pandas to read and analyse tens of thousands of files from the Swiss supreme court and turn them into structured data for our computers to work with. You'll find the files [here](https://www.dropbox.com/sh/bo98o847jf07ooc/AACgEKoDnDPj26-1fkByHbrJa?dl=0).
 
 Please get in touch with me, if there are any questions: E-Mail barnaby.skinner@tamedia.ch or on Twitter @barjack.
